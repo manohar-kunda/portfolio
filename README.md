@@ -133,9 +133,9 @@ Refer to the detailed guide:
 - **Target Roles**: Java Full Stack Developer / Java Backend Engineer / Software Engineer
 - **Education**: Master of Computer Applications (MCA)
 - **Location**: Bengaluru, India
-- **Email**: [kunda.manohar.dev@gmail.com](mailto:kunda.manohar.dev@gmail.com)
+- **Email**: [kunda.manohar.dev@gmail.com](mailto:manoharkunda5@gmail.com)
 - **GitHub**: [github.com/manohar-kunda](https://github.com/manohar-kunda)
-- **LinkedIn**: [linkedin.com/in/kunda-manohar](https://linkedin.com/in/kunda-manohar)
+- **LinkedIn**: [linkedin.com/in/kunda-manohar](https://linkedin.com/in/manohar-kunda)
 
 ---
 
